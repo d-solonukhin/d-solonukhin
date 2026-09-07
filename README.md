@@ -1,16 +1,15 @@
-## Hi there 👋
+# Данила Солонухин
+Fullstack-разработчик: TypeScript, React, Node.js, PostgreSQL.
 
-<!--
-**d-solonukhin/d-solonukhin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Открыт к офферам (Удаленно / Москва | Ростов-на-Дону).
 
-Here are some ideas to get you started:
+## Проекты
+- **[App]** — что делает + зачем. [Demo](url) · [Repo](url)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Стек
+**Frontend:** React, Next.js, TypeScript, Vue, Nuxt, Redux, Ag-Grid, Chart.js, SCSS   
+**Backend:** Node.js, Nest/Express, PostgreSQL, Redis, RabbitMQ 
+**Infra:** Docker, GitLab Actions, Git
+
+## Контакты
+Telegram: @dsolonukhin · d.solonukhin@gmail.com
