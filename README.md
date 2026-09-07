@@ -1,5 +1,5 @@
 # Данила Солонухин
-Fullstack-разработчик: TypeScript, React, Node.js, PostgreSQL.
+Fullstack-разработчик c 3+ годами коммерческого опыта: TypeScript, React, Node.js, PostgreSQL.
 
 Открыт к офферам (Удаленно / Москва | Ростов-на-Дону).
 
