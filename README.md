@@ -12,4 +12,5 @@ Fullstack-разработчик: TypeScript, React, Node.js, PostgreSQL.
 **Infra:** Docker, GitLab Actions, Git
 
 ## Контакты
-Telegram: @dsolonukhin · d.solonukhin@gmail.com
+**Telegram:** @dsolonukhin
+**Mail:** d.solonukhin@gmail.com
